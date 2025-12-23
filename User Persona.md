@@ -73,6 +73,8 @@
 
 ## Quote
 
-- `I want a social platform that lets me connect with friends an express myself and my way of life to others.`
+- "I want a social platform that lets me connect with friends an express myself and my way of life to others."
+- "I want to quickly see what my friends are posting without unnecessary distractions."
+- “Being able to communicate and learn about others.”
 
 ---
