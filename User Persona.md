@@ -10,19 +10,18 @@
 
 ## Demographic Information
 
-- Age: 22
+- Age: 21
 - Gender: Male
 - Location: Bengaluru, India
 - Education: Undergraduate Student (Computer Science)
 - Occupation: College Student
 - Device Usage: Smartphone (primary), Laptop (secondary)
-- Internet Skill Level: Intermediate
 
 ---
 
 ## Background
 
-- Grimmjow Jaegerjaquez is a college student who actively uses social media to stay connected with friends, classmates, and family. He enjoys sharing updates, photos, and interacting with posts through likes and comments. He prefers platforms that are fast, easy to use, and respectful of user privacy.
+- Grimmjow Jaegerjaquez is a college student who actively uses social media to stay connected with friends and family. He enjoys sharing updates, photos, and interacting with posts through likes and comments. He prefers platforms that are fast, easy to use, and where we can express his way of life.
 
 ---
 
@@ -32,7 +31,7 @@
 - Share personal updates and photos.
 - View and engage with posts in a news feed.
 - Control privacy over his content.
-- Receive timely notifications for interactions.
+- Interact with new peoples.
 
 ---
 
@@ -41,8 +40,6 @@
 - Secure and simple authentication.
 - Easy-to-use interface for posting and browsing content.
 - Interaction features such as likes and comments.
-- Privacy settings to manage content visibility.
-- Reliable notification system.
 
 ---
 
@@ -50,7 +47,6 @@
 
 - Complex or slow login processes.
 - Delayed or missing notifications.
-- Limited control over post visibility.
 - Difficulty finding friends on the platform.
 - Poor mobile experience.
 
