@@ -77,6 +77,6 @@
 
 ## Quote
 
-- `I want a social platform that lets me connect with friends easily while keeping my personal information secure.`
+- `I want a social platform that lets me connect with friends an express myself and my way of life to others.`
 
 ---
